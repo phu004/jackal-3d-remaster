@@ -1,0 +1,472 @@
+{
+ "meta": {
+  "source": "jackal-stage-4-nes-map.webp",
+  "cell": 8,
+  "width": 512,
+  "height": 2872
+ },
+ "entities": [
+  {
+   "type": "start",
+   "x": 112,
+   "y": 2840
+  },
+  {
+   "type": "tent",
+   "x": 236,
+   "y": 1517,
+   "w": 52,
+   "h": 39,
+   "breach": "east",
+   "windows": "east",
+   "rot": -90
+  },
+  {
+   "type": "tent",
+   "x": 300,
+   "y": 1596,
+   "w": 39,
+   "h": 52,
+   "breach": "west"
+  },
+  {
+   "type": "tent",
+   "x": 124,
+   "y": 1581,
+   "w": 39,
+   "h": 52,
+   "breach": "east"
+  },
+  {
+   "type": "barracks",
+   "x": 119,
+   "y": 1401,
+   "w": 56,
+   "h": 48,
+   "look": "brown",
+   "scale": 1.08
+  },
+  {
+   "type": "barracks",
+   "x": 343,
+   "y": 1257,
+   "w": 56,
+   "h": 48,
+   "look": "brown",
+   "scale": 1.08
+  },
+  {
+   "type": "barracks",
+   "x": 119,
+   "y": 1737,
+   "w": 56,
+   "h": 48,
+   "look": "brown",
+   "scale": 1.08
+  },
+  {
+   "type": "barracks",
+   "x": 407,
+   "y": 1825,
+   "w": 56,
+   "h": 48,
+   "look": "brown",
+   "scale": 1.08
+  },
+  {
+   "type": "gate",
+   "x": 224,
+   "y": 1360,
+   "w": 64,
+   "h": 32,
+   "look": "brown"
+  },
+  {
+   "type": "gate",
+   "x": 160,
+   "y": 1664,
+   "w": 64,
+   "h": 32,
+   "look": "brown"
+  },
+  {
+   "type": "helipad",
+   "x": 376,
+   "y": 656,
+   "w": 112,
+   "h": 64,
+   "apron": "west"
+  },
+  {
+   "type": "lighttank",
+   "x": 414.7,
+   "y": 2064.3
+  },
+  {
+   "type": "turret",
+   "x": 175,
+   "y": 382,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "turret",
+   "x": 335,
+   "y": 382,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "turret",
+   "x": 239,
+   "y": 414,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "turret",
+   "x": 271,
+   "y": 414,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "turret",
+   "x": 303,
+   "y": 590,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "turret",
+   "x": 367,
+   "y": 734,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "turret",
+   "x": 431,
+   "y": 1134,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "turret",
+   "x": 207,
+   "y": 1422,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "turret",
+   "x": 271,
+   "y": 1422,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "turret",
+   "x": 207,
+   "y": 1694,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "turret",
+   "x": 335,
+   "y": 1694,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "turret",
+   "x": 175,
+   "y": 2062,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "turret",
+   "x": 335,
+   "y": 2062,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "mudlauncher",
+   "x": 239.4,
+   "y": 2462.4
+  },
+  {
+   "type": "mudlauncher",
+   "x": 354.6,
+   "y": 2291.5
+  },
+  {
+   "type": "mudlauncher",
+   "x": 112.6,
+   "y": 2264.6
+  },
+  {
+   "type": "lighttank",
+   "x": 172.8,
+   "y": 965.4
+  },
+  {
+   "type": "lighttank",
+   "x": 255.4,
+   "y": 1242.6
+  },
+  {
+   "type": "lighttank",
+   "x": 286.7,
+   "y": 700.5
+  },
+  {
+   "type": "lighttank",
+   "x": 190.1,
+   "y": 148.2
+  },
+  {
+   "type": "lighttank",
+   "x": 321.3,
+   "y": 148.2
+  },
+  {
+   "type": "dronepad",
+   "x": 320,
+   "y": 1186
+  },
+  {
+   "type": "lighttank",
+   "x": 79.4,
+   "y": 2136.0
+  },
+  {
+   "type": "lighttank",
+   "x": 373.8,
+   "y": 2244.2
+  },
+  {
+   "type": "lighttank",
+   "x": 367.4,
+   "y": 2448.3
+  },
+  {
+   "type": "lighttank",
+   "x": 198.4,
+   "y": 2326.1
+  },
+  {
+   "type": "soldier",
+   "x": 284,
+   "y": 125
+  },
+  {
+   "type": "soldier",
+   "x": 205,
+   "y": 279
+  },
+  {
+   "type": "soldier",
+   "x": 271,
+   "y": 309
+  },
+  {
+   "type": "soldier",
+   "x": 172,
+   "y": 477
+  },
+  {
+   "type": "soldier",
+   "x": 422,
+   "y": 650
+  },
+  {
+   "type": "soldier",
+   "x": 306,
+   "y": 718
+  },
+  {
+   "type": "soldier",
+   "x": 221,
+   "y": 831
+  },
+  {
+   "type": "soldier",
+   "x": 159,
+   "y": 962
+  },
+  {
+   "type": "soldier",
+   "x": 126,
+   "y": 1037
+  },
+  {
+   "type": "soldier",
+   "x": 138,
+   "y": 1115
+  },
+  {
+   "type": "soldier",
+   "x": 106,
+   "y": 1189
+  },
+  {
+   "type": "soldier",
+   "x": 179,
+   "y": 1286
+  },
+  {
+   "type": "soldier",
+   "x": 329,
+   "y": 1791
+  },
+  {
+   "type": "soldier",
+   "x": 436,
+   "y": 1881
+  },
+  {
+   "type": "soldier",
+   "x": 99,
+   "y": 1962
+  },
+  {
+   "type": "soldier",
+   "x": 363,
+   "y": 2147
+  },
+  {
+   "type": "soldier",
+   "x": 461,
+   "y": 2194
+  },
+  {
+   "type": "soldier",
+   "x": 91,
+   "y": 2436
+  },
+  {
+   "type": "soldier",
+   "x": 363,
+   "y": 2453
+  },
+  {
+   "type": "soldier",
+   "x": 68,
+   "y": 2541
+  },
+  {
+   "type": "soldier",
+   "x": 444,
+   "y": 2675
+  },
+  {
+   "type": "lighttank",
+   "x": 232.3,
+   "y": 2596.2
+  },
+  {
+   "type": "rock",
+   "x": 176,
+   "y": 529,
+   "w": 32,
+   "h": 28,
+   "look": "mossy"
+  },
+  {
+   "type": "rock",
+   "x": 176,
+   "y": 561,
+   "w": 32,
+   "h": 28,
+   "look": "mossy"
+  },
+  {
+   "type": "rock",
+   "x": 432,
+   "y": 1105,
+   "w": 32,
+   "h": 28,
+   "look": "mossy"
+  },
+  {
+   "type": "rock",
+   "x": 304,
+   "y": 1541,
+   "w": 32,
+   "h": 28,
+   "look": "mossy"
+  },
+  {
+   "type": "rock",
+   "x": 368,
+   "y": 1617,
+   "w": 32,
+   "h": 28,
+   "look": "mossy"
+  },
+  {
+   "type": "rock",
+   "x": 80,
+   "y": 2001,
+   "w": 32,
+   "h": 28,
+   "look": "mossy"
+  },
+  {
+   "type": "m270",
+   "x": 224,
+   "y": 813,
+   "w": 29,
+   "h": 29,
+   "rot": 135
+  },
+  {
+   "type": "m270",
+   "x": 64,
+   "y": 1773,
+   "w": 29,
+   "h": 29,
+   "rot": 135
+  },
+  {
+   "type": "fallingrock",
+   "x": 256,
+   "y": 930,
+   "dragK": 7,
+   "turn": 1.25,
+   "gravK": 2
+  },
+  {
+   "type": "fallingrock",
+   "x": 256,
+   "y": 1032,
+   "dragK": 4,
+   "turn": 0.35,
+   "gravK": 2
+  },
+  {
+   "type": "fallingrock",
+   "x": 208,
+   "y": 1890
+  },
+  {
+   "type": "fallingrock",
+   "x": 296,
+   "y": 1890
+  },
+  {
+   "type": "fallingrock",
+   "x": 296,
+   "y": 1950
+  },
+  {
+   "type": "fallingrock",
+   "x": 216,
+   "y": 1954
+  }
+ ]
+}

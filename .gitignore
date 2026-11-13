@@ -1,0 +1,9 @@
+node_modules/
+dist/
+dist-*/
+reference/
+baselines/
+asset-sources/
+tmp_view/
+share-source/
+*.zip

@@ -1,0 +1,644 @@
+{
+ "meta": {
+  "source": "jackal-stage-5-nes-map.webp",
+  "cell": 8,
+  "width": 512,
+  "height": 2872
+ },
+ "entities": [
+  {
+   "type": "start",
+   "x": 208,
+   "y": 2840
+  },
+  {
+   "type": "helipad",
+   "x": 328,
+   "y": 528,
+   "w": 112,
+   "h": 64
+  },
+  {
+   "type": "tent",
+   "x": 192,
+   "y": 1024,
+   "w": 52,
+   "h": 39,
+   "breach": "east",
+   "windows": "east",
+   "rot": -90
+  },
+  {
+   "type": "tent",
+   "x": 352,
+   "y": 1056,
+   "w": 39,
+   "h": 52,
+   "breach": "west"
+  },
+  {
+   "type": "tent",
+   "x": 418,
+   "y": 2351,
+   "w": 39,
+   "h": 52,
+   "breach": "west"
+  },
+  {
+   "type": "tent",
+   "x": 192,
+   "y": 2428,
+   "w": 39,
+   "h": 52,
+   "breach": "east"
+  },
+  {
+   "type": "tent",
+   "x": 384,
+   "y": 2428,
+   "w": 39,
+   "h": 52,
+   "breach": "west"
+  },
+  {
+   "type": "gate",
+   "x": 224,
+   "y": 1104,
+   "w": 64,
+   "h": 32,
+   "look": "brown"
+  },
+  {
+   "type": "gate",
+   "x": 288,
+   "y": 2480,
+   "w": 64,
+   "h": 32,
+   "look": "brown"
+  },
+  {
+   "type": "pickup",
+   "x": 304,
+   "y": 1856
+  },
+  {
+   "type": "wallturret",
+   "x": 60.8,
+   "y": 79,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "wallturret",
+   "x": 236.2,
+   "y": 79,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "wallturret",
+   "x": 339.2,
+   "y": 79,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "wallturret",
+   "x": 501.8,
+   "y": 79,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "gate",
+   "x": 288,
+   "y": 79,
+   "w": 64,
+   "h": 16,
+   "look": "airbase",
+   "energy": true
+  },
+  {
+   "type": "turret",
+   "x": 176,
+   "y": 352,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "turret",
+   "x": 272,
+   "y": 352,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "turret",
+   "x": 207,
+   "y": 560,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "turret",
+   "x": 430,
+   "y": 560,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "turret",
+   "x": 304,
+   "y": 592,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "turret",
+   "x": 336,
+   "y": 592,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "turret",
+   "x": 400,
+   "y": 895,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "turret",
+   "x": 367,
+   "y": 926,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "turret",
+   "x": 145,
+   "y": 1215,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "turret",
+   "x": 112,
+   "y": 1246,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "turret",
+   "x": 80,
+   "y": 1277,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "turret",
+   "x": 336,
+   "y": 1375,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "turret",
+   "x": 368,
+   "y": 1375,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "turret",
+   "x": 175,
+   "y": 1551,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "turret",
+   "x": 240,
+   "y": 1551,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "turret",
+   "x": 336,
+   "y": 2175,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "turret",
+   "x": 431,
+   "y": 2175,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "turret",
+   "x": 336,
+   "y": 2335,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "barracks",
+   "x": 127,
+   "y": 505,
+   "w": 56,
+   "h": 48,
+   "look": "grey",
+   "scale": 1.08
+  },
+  {
+   "type": "barracks",
+   "x": 160,
+   "y": 870,
+   "w": 56,
+   "h": 48,
+   "look": "grey",
+   "scale": 1.08
+  },
+  {
+   "type": "barracks",
+   "x": 382,
+   "y": 1655,
+   "w": 56,
+   "h": 48,
+   "look": "grey",
+   "scale": 1.08
+  },
+  {
+   "type": "barracks",
+   "x": 96,
+   "y": 2247,
+   "w": 60,
+   "h": 52,
+   "look": "garage"
+  },
+  {
+   "type": "mediumtank",
+   "x": 96,
+   "y": 2240,
+   "hidden": true
+  },
+  {
+   "type": "barracks",
+   "x": 191,
+   "y": 2758,
+   "w": 56,
+   "h": 48,
+   "look": "grey",
+   "scale": 1.08
+  },
+  {
+   "type": "camoturret",
+   "x": 40.3,
+   "y": 1713.6
+  },
+  {
+   "type": "camoturret",
+   "x": 235.5,
+   "y": 1752
+  },
+  {
+   "type": "camoturret",
+   "x": 389.1,
+   "y": 1745.6
+  },
+  {
+   "type": "foxhole",
+   "x": 176,
+   "y": 1579,
+   "w": 32,
+   "h": 20,
+   "look": "grey"
+  },
+  {
+   "type": "foxhole",
+   "x": 208,
+   "y": 587,
+   "w": 32,
+   "h": 20,
+   "look": "grey"
+  },
+  {
+   "type": "foxhole",
+   "x": 208,
+   "y": 1515,
+   "w": 32,
+   "h": 20,
+   "look": "grey"
+  },
+  {
+   "type": "foxhole",
+   "x": 208,
+   "y": 1619,
+   "w": 32,
+   "h": 20,
+   "look": "grey"
+  },
+  {
+   "type": "foxhole",
+   "x": 208,
+   "y": 2171,
+   "w": 32,
+   "h": 20,
+   "look": "grey"
+  },
+  {
+   "type": "foxhole",
+   "x": 240,
+   "y": 587,
+   "w": 32,
+   "h": 20,
+   "look": "grey"
+  },
+  {
+   "type": "foxhole",
+   "x": 240,
+   "y": 1579,
+   "w": 32,
+   "h": 20,
+   "look": "grey"
+  },
+  {
+   "type": "foxhole",
+   "x": 240,
+   "y": 2203,
+   "w": 32,
+   "h": 20,
+   "look": "grey"
+  },
+  {
+   "type": "foxhole",
+   "x": 272,
+   "y": 619,
+   "w": 32,
+   "h": 20,
+   "look": "grey"
+  },
+  {
+   "type": "foxhole",
+   "x": 272,
+   "y": 2235,
+   "w": 32,
+   "h": 20,
+   "look": "grey"
+  },
+  {
+   "type": "foxhole",
+   "x": 304,
+   "y": 619,
+   "w": 32,
+   "h": 20,
+   "look": "grey"
+  },
+  {
+   "type": "foxhole",
+   "x": 304,
+   "y": 1403,
+   "w": 32,
+   "h": 20,
+   "look": "grey"
+  },
+  {
+   "type": "foxhole",
+   "x": 336,
+   "y": 619,
+   "w": 32,
+   "h": 20,
+   "look": "grey"
+  },
+  {
+   "type": "foxhole",
+   "x": 336,
+   "y": 1403,
+   "w": 32,
+   "h": 20,
+   "look": "grey"
+  },
+  {
+   "type": "foxhole",
+   "x": 368,
+   "y": 619,
+   "w": 32,
+   "h": 20,
+   "look": "grey"
+  },
+  {
+   "type": "foxhole",
+   "x": 368,
+   "y": 1403,
+   "w": 32,
+   "h": 20,
+   "look": "grey"
+  },
+  {
+   "type": "foxhole",
+   "x": 400,
+   "y": 587,
+   "w": 32,
+   "h": 20,
+   "look": "grey"
+  },
+  {
+   "type": "foxhole",
+   "x": 400,
+   "y": 1403,
+   "w": 32,
+   "h": 20,
+   "look": "grey"
+  },
+  {
+   "type": "foxhole",
+   "x": 432,
+   "y": 587,
+   "w": 32,
+   "h": 20,
+   "look": "grey"
+  },
+  {
+   "type": "gate",
+   "x": 128,
+   "y": 2128,
+   "w": 64,
+   "h": 16,
+   "look": "steel"
+  },
+  {
+   "type": "gate",
+   "x": 384,
+   "y": 2128,
+   "w": 64,
+   "h": 16,
+   "look": "steel"
+  },
+  {
+   "type": "gate",
+   "x": 224,
+   "y": 416,
+   "w": 64,
+   "h": 16,
+   "look": "steel"
+  },
+  {
+   "type": "soldier",
+   "x": 141,
+   "y": 2777
+  },
+  {
+   "type": "soldier",
+   "x": 453,
+   "y": 2525
+  },
+  {
+   "type": "soldier",
+   "x": 254,
+   "y": 2376
+  },
+  {
+   "type": "soldier",
+   "x": 234,
+   "y": 2282
+  },
+  {
+   "type": "soldier",
+   "x": 345,
+   "y": 2220
+  },
+  {
+   "type": "soldier",
+   "x": 234,
+   "y": 2076
+  },
+  {
+   "type": "soldier",
+   "x": 211,
+   "y": 1700
+  },
+  {
+   "type": "soldier",
+   "x": 121,
+   "y": 1684
+  },
+  {
+   "type": "soldier",
+   "x": 142,
+   "y": 1485
+  },
+  {
+   "type": "soldier",
+   "x": 176,
+   "y": 1286
+  },
+  {
+   "type": "soldier",
+   "x": 199,
+   "y": 1158
+  },
+  {
+   "type": "soldier",
+   "x": 299,
+   "y": 1043
+  },
+  {
+   "type": "soldier",
+   "x": 216,
+   "y": 912
+  },
+  {
+   "type": "soldier",
+   "x": 215,
+   "y": 867
+  },
+  {
+   "type": "soldier",
+   "x": 209,
+   "y": 630
+  },
+  {
+   "type": "soldier",
+   "x": 414,
+   "y": 504
+  },
+  {
+   "type": "soldier",
+   "x": 203,
+   "y": 467
+  },
+  {
+   "type": "soldier",
+   "x": 310,
+   "y": 197
+  },
+  {
+   "type": "soldier",
+   "x": 395,
+   "y": 112
+  },
+  {
+   "type": "wallturret",
+   "x": 15.4,
+   "y": 79,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "type": "gate",
+   "x": -156.0,
+   "y": 1240,
+   "w": 8,
+   "h": 64,
+   "look": "airbase",
+   "pylons": true,
+   "rot": 90,
+   "energy": true
+  }
+ ],
+ "mines": [
+  {
+   "x": 303,
+   "y": 932
+  },
+  {
+   "x": 303,
+   "y": 1736
+  },
+  {
+   "x": 336,
+   "y": 1736
+  },
+  {
+   "x": 88,
+   "y": 1808
+  },
+  {
+   "x": 128,
+   "y": 1864
+  },
+  {
+   "x": 96,
+   "y": 1911
+  },
+  {
+   "x": 112,
+   "y": 1984
+  },
+  {
+   "x": 247,
+   "y": 2176
+  },
+  {
+   "x": 279,
+   "y": 2208
+  },
+  {
+   "x": 299,
+   "y": 2244
+  }
+ ]
+}
