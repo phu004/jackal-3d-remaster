@@ -4,7 +4,7 @@
 
 **NES *Jackal* (1988) rebuilt as a 3D game that runs in your browser.**
 
-[▶ **Play it now**](https://phu004.github.io/jackal-remaster/) · [🎬 **Watch the showcase video**](YOUR_YOUTUBE_LINK_HERE)
+[▶ **Play it now**](https://phu004.github.io/jackal-remaster/) · [🎬 **Watch the showcase video**](https://www.youtube.com/watch?v=It7ujn2-rEY&t=2061s)
 
 ![Gameplay](docs/screenshots/hero.gif)
 
