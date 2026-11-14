@@ -19,9 +19,6 @@ A single-player 3D remaster of Konami's classic run-and-gun, *Jackal* (*Tokushu 
 - **6 stages rebuilt in 3D**, including the stage 1 map generated from the original NES layout
 - **A secret snow level**, reached through a hidden exit on stage 5
 - **New boss fights**, including twin walkers and a final super tank
-- **A full soundtrack** with a track per stage and boss, plus start, clear and game-over jingles
-- **Separate SFX and music volume sliders**
-- **English and Chinese UI** (add `?lang=cn` to the URL)
 - **Procedural assets**: the models and effects are generated in code
 
 ## Screenshots
