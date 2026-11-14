@@ -6,7 +6,7 @@
 
 [▶ **Play it now**](https://phu004.github.io/jackal-remaster/) · [🎬 **Watch the showcase video**](https://www.youtube.com/watch?v=It7ujn2-rEY&t=2061s)
 
-![Gameplay](docs/screenshots/hero.gif)
+![Stage 5](docs/screenshots/stage5.jpg)
 
 </div>
 
@@ -23,9 +23,17 @@ A single-player 3D remaster of Konami's classic run-and-gun, *Jackal* (*Tokushu 
 
 ## Screenshots
 
-| Stage 1 | Naval base | Secret level |
+| Stage 1 | Stage 2 | Stage 3: naval base |
 |---|---|---|
-| ![](docs/screenshots/stage1.png) | ![](docs/screenshots/stage3.png) | ![](docs/screenshots/secret.png) |
+| ![Stage 1](docs/screenshots/stage1.jpg) | ![Stage 2](docs/screenshots/stage2.jpg) | ![Stage 3](docs/screenshots/stage3.jpg) |
+
+| Stage 4 | Stage 5 | Stage 6 |
+|---|---|---|
+| ![Stage 4](docs/screenshots/stage4.jpg) | ![Stage 5](docs/screenshots/stage5.jpg) | ![Stage 6](docs/screenshots/stage6.jpg) |
+
+| Secret snow level |
+|---|
+| ![Secret level](docs/screenshots/secret.jpg) |
 
 ## Controls
 
