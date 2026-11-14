@@ -6,7 +6,6 @@
 
 [▶ **Play it now**](https://phu004.github.io/jackal-remaster/) · [🎬 **Watch the showcase video**](https://www.youtube.com/watch?v=It7ujn2-rEY)
 
-![Stage 5](docs/screenshots/stage5.jpg)
 
 </div>
 
